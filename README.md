@@ -45,16 +45,16 @@ Acredito que meus conhecimentos agregam valor a organizações que buscam profis
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilmar-filho&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmar-filho&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- 📧 Email: seuemail@exemplo.com
+- 💼 [LinkedIn](www.linkedin.com/in/gilmar-filho-0b6717263)  
+- 📧 Email: gfilho416@gmail.com
 
 ---
 
