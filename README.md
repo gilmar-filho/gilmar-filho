@@ -10,23 +10,23 @@
 
 ## ✨ Sobre mim
 
-Olá! Sou Gilmar Filho, técnico em Administração e graduando em Sistemas de Informação pela UFLA.
+Sou estudante de Sistemas de Informação na Universidade Federal de Lavras (UFLA) e técnico em Administração. Atuo como Operador de Sistemas na PIC Telecom e já tive a oportunidade de gerenciar uma empresa familiar no setor agrícola.
 
-Tenho experiência prática no gerenciamento de uma empresa familiar no setor de agricultura e, atualmente, atuo como Operador de Sistemas na PIC Telecom.  
-Minha paixão por Administração e Tecnologia da Informação me motiva a buscar aprendizado contínuo e desenvolvimento profissional.
+Tenho grande interesse pelas áreas de Tecnologia da Informação e Administração — duas paixões que me impulsionam a aprender constantemente e buscar novos desafios. Gosto de explorar soluções práticas com Python, C++ e Java, sempre buscando aplicar meus conhecimentos em projetos reais, mesmo que ainda no contexto acadêmico.
 
-Sou reconhecido pela disposição, inteligência e competência técnica, além de encarar desafios com eficácia e eficiência.  
-Acredito que meus conhecimentos agregam valor a organizações que buscam profissionais comprometidos, confiáveis e dedicados.
+Acredito no valor do comprometimento, da curiosidade e da evolução contínua. Estou sempre aberto a novas ideias, colaborações e oportunidades de crescimento.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
-![SQLite](https://img.shields.io/badge/-SQLite-333?style=flat&logo=sqlite)
 
 ---
 
@@ -34,9 +34,9 @@ Acredito que meus conhecimentos agregam valor a organizações que buscam profis
 
 > Por enquanto, atuei principalmente com projetos de estudo e testes em Python. Aqui estão alguns exemplos (em construção):
 
-- 📌 *Cadastro de Pessoas com Interface Desktop (Tkinter ou PyQt)*  
-- 📌 *Gerenciador de Tarefas Local em Python*
-- 📌 *Testes com Banco de Dados SQLite*
+- 📌 *Cadastro de Pessoas com Interface Desktop usando Django*  
+- 📌 *Projeto para Manipulação de um Arquivo CSV Contendo Dados Referentes a Séries Televisivas*
+- 📌 *Projeto de um Banco de Dados de um Jogo*
 
 *Em breve, mais projetos disponíveis!*
 
@@ -53,7 +53,7 @@ Acredito que meus conhecimentos agregam valor a organizações que buscam profis
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](www.linkedin.com/in/gilmar-filho-0b6717263)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gilmar-filho-0b6717263)  
 - 📧 Email: gfilho416@gmail.com
 
 ---
